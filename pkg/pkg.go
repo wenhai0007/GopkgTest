@@ -2,6 +2,6 @@ package pkg
 
 import "fmt"
 
-func prt(str string) {
+func Prt(str string) {
 	fmt.Print(str)
 }
